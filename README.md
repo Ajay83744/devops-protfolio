@@ -1,35 +1,69 @@
-# Hi, I'm Ajay Reddy
+# 👋 Hi, I'm Ajay Reddy
 
 ## DevOps Engineer
 
-Welcome to my DevOps portfolio.
+Welcome to my GitHub portfolio.
 
-## Skills
+I enjoy building cloud infrastructure, automating deployments, and improving system reliability using DevOps tools and best practices.
 
+---
+
+# 🚀 Technical Skills
+
+## Cloud
 - AWS
 - Azure
-- Terraform
-- Kubernetes
+
+## Containers
 - Docker
+- Kubernetes
+- Amazon EKS
+- Azure AKS
+
+## Infrastructure as Code
+- Terraform
+- CloudFormation
+- Ansible
+
+## CI/CD
 - Jenkins
 - GitHub Actions
-- Ansible
-- Linux
-- Python
-- Bash
+- GitLab CI/CD
+
+## Monitoring
 - Prometheus
 - Grafana
+- CloudWatch
 - ELK Stack
 
-## Projects
+## Programming
+- Python
+- Bash
+
+## Operating Systems
+- Linux
+- Ubuntu
+- RHEL
+
+---
+
+# 📂 Projects
 
 | Project | Status |
-|----------|---------|
-| AWS EKS Infrastructure | Coming Soon |
-| Terraform Modules | Coming Soon |
-| Docker Application | Coming Soon |
-| Kubernetes Deployment | Coming Soon |
-| Jenkins Pipeline | Coming Soon |
-| GitHub Actions | Coming Soon |
-| Prometheus Monitoring | Coming Soon |
-| ELK Logging | Coming Soon |
+|---------|--------|
+| Terraform AWS Infrastructure | 🔜 Coming Soon |
+| Docker Application | 🔜 Coming Soon |
+| Kubernetes Deployment | 🔜 Coming Soon |
+| Jenkins CI/CD Pipeline | 🔜 Coming Soon |
+| GitHub Actions Pipeline | 🔜 Coming Soon |
+| Monitoring with Prometheus | 🔜 Coming Soon |
+| ELK Stack Logging | 🔜 Coming Soon |
+| Azure AKS Deployment | 🔜 Coming Soon |
+
+---
+
+# 📫 Contact
+
+📧 Your Email
+
+💼 LinkedIn
